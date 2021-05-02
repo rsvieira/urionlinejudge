@@ -1,3 +1,3 @@
 ## urionlinejudge
 
-> Answers to tasks of www.urionlinejudge using java.
+> Answers to tasks of www.urionlinejudge.com.br using java.
