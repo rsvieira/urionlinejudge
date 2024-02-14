@@ -8,6 +8,7 @@ import java.util.Scanner;
  * @email devrsvieira@gmail.com
  * @date 10/06/22
  */
+
 public class Problem1017 {
 
     public static void main(String[] args) {

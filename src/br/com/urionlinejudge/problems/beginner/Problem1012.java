@@ -10,6 +10,7 @@ import java.util.Scanner;
  * email - devrsvieira@gmail.com
  * @date 06/05/2021 19:33:40
  */
+
 public class Problem1012 {
 	
 	public static void main(String[] args) {

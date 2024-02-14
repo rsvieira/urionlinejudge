@@ -10,6 +10,7 @@ import java.util.TreeMap;
  * @email devrsvieira@gmail.com
  * @date 10/06/22
  */
+
 public class Problem1018 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

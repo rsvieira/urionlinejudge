@@ -7,6 +7,7 @@ import java.util.Scanner;
  * email - devrsvieira@gmail.com
  * @date 09/06/2022
  */
+
 public class Problem1013 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
